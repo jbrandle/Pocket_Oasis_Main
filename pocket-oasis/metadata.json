@@ -1,9 +1,0 @@
-{
-  "name": "Pocket Oasis",
-  "description": "A mobile-first, AI-driven metaverse prototype. Log in, explore themed zones, complete generated quests, and earn rewards in a perpetual virtual world.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone",
-    "geolocation"
-  ]
-}
