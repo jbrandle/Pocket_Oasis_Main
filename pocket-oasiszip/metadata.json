@@ -1,0 +1,9 @@
+{
+  "name": "Pocket Oasis",
+  "description": "An immersive virtual world environment where you can escape reality and become part of a living story. Like a digital book you live through, the Oasis allows you to be the person you've always wanted to be.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
